@@ -22,7 +22,7 @@ La terra è un _geoide_. La forma geometrica che meglio l'approssima è un _elli
 
 ---
 
-> #### 
+> #### default::
 > 
 > ## Differenza di latitudine tra due punti (&Delta;&phi;)
 > 
@@ -41,7 +41,7 @@ La terra è un _geoide_. La forma geometrica che meglio l'approssima è un _elli
 
 ---
 
-> #### 
+> #### default::
 >
 > ## Differenza di longitudine tra due punti (&Delta;&lambda;)
 >
@@ -59,8 +59,8 @@ La terra è un _geoide_. La forma geometrica che meglio l'approssima è un _elli
 
 ---
 
-> #### 
-
+> #### default::
+>
 > ## Esempio: 
 > 
 > Dati:
