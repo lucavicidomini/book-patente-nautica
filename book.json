@@ -1,0 +1,7 @@
+{
+    "plugins": [
+        "hints",
+        "bootstrap-callout",
+        "emphasize"
+    ]
+}
