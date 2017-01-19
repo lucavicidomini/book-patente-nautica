@@ -20,4 +20,8 @@ Tre possibili strumenti:
 
 ## Solcometro a barchetta
 
-Consiste in una sagola con un nodo ogni 15,43 m, ovvero la distanza che coprirebbe una barca in 30 secondi alla velocità di 1 nodo. Il marinaio lanciava in mare la barchetta e contava quanti nodi gli passavano per le mani in 30 secondi: quella era la velocità della barca.
+Consiste in una sagola[^1] con un nodo ogni 15,43 m, ovvero la distanza che coprirebbe una barca in 30 secondi alla velocità di 1 nodo. Il marinaio lanciava in mare la barchetta e contava quanti nodi gli passavano per le mani in 30 secondi: quella era la velocità della barca.
+
+---
+
+[^1] Per sagola si intende una cima (ovvero una corda) di piccolo spessore (solitamente intorno ai 5mm).
