@@ -7,3 +7,8 @@
 * [Coordinate](chapters/01-coordinate.md)
 * [Carte nautiche](chapters/02-carte-nautiche.md)
 
+* Esercizi
+  * [Autonomia](exercises/02-autonomia.md)
+  * [Conversioni](exercises/02-conversioni.md)
+  * [Differenza di coordinate](exercises/02-differenza-coordinate.md)
+  
