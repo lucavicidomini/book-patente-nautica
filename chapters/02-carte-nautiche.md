@@ -75,3 +75,6 @@ Le carte si classificano in base alla scala (dalla scala più piccola alla scala
 | Carte costiere | 1:60.000&nbsp;-&nbsp;1:30.000| A grande scala. Usate per l'atterraggio e nei porti |
 | Carte litorali | 1:30.000 ||
 | Piano nautici e pianetti | 1:10.000 - 1:2.000 | Su queste scale è possibile ottenere carte isogone, isometriche e equivalenti. Si usano per piccole zone, isolotti, porti, rade
+
+> #### info::
+> Nota: più è piccolo il denominatore, più è grande la scala.
