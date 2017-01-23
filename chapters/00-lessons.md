@@ -5,3 +5,6 @@
     - [Coordinate](01-coordinate.md)
 1. 17/01 _Martedì_
     - [Carte nautiche](02-carte-nautiche.md)
+1. 20/01 _Venerdì_
+    - [Altre pubblicazioni](chapters/03-pubblicazioni.md)
+    - [Lettura della carte nautiche](chapters/03-carte-nautiche.md)

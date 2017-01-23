@@ -6,6 +6,8 @@
 * [Unità di misura](chapters/01-unita-di-misura.md)
 * [Coordinate](chapters/01-coordinate.md)
 * [Carte nautiche](chapters/02-carte-nautiche.md)
+  * [Lettura della carte nautiche](chapters/03-carte-nautiche.md)
+* [Altre pubblicazioni](chapters/03-pubblicazioni.md)
 
 * Esercizi
   * [Autonomia](exercises/02-autonomia.md)
