@@ -7,4 +7,5 @@
     - [Carte nautiche](02-carte-nautiche.md)
 1. 20/01 _Venerdì_
     - [Altre pubblicazioni](chapters/03-pubblicazioni.md)
-    - [Lettura della carte nautiche](chapters/03-carte-nautiche.md)
+    - [Lettura delle carte nautiche](chapters/03-carte-nautiche.md)
+    - [Aggiornamento delle carte nautiche](chapters/03-aggiornamento-carte.md)
