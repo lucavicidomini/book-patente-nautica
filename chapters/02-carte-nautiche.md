@@ -1,13 +1,24 @@
 # Ortodromia e lossodromia
 
-Dati due punti A e B, una rotta **ortodromica** è una rotta sulla circonferenza massima (quindi passante per il
-centro della Terra) ed è il percorso più breve tra i due punti. 
+Dati due punti A e B, una rotta **ortodromica** *(dal greco: percorso dritto)* è una rotta sulla circonferenza massima 
+ed è il percorso più breve tra i due punti. 
 Interseca i meridiani ad angoli variabili e quindi richiede continui aggiustamenti di rotta.
 È una linea retta sulla carta gnomonica.
 
-Dati due punti A e B, una rotta **lossodromica** è una rotta che incontra i meridiani con angolo costante.
+Dati due punti A e B, una rotta **lossodromica** *(dal greco: percorso curvo)* è una rotta che incontra i meridiani con angolo costante.
 Non è il percorso più breve, ma ha angolo costante e corrisponde ad una spirale che avvolge la Terra.
 È una linea retta sulla carta di Mercatore.
+
+<table border="0">
+    <tr>
+        <td style="width: 50%;">
+            <img src="../images/02-ortodromia.svg"/ style="width: 100%;">
+        </td>
+        <td style="width: 50%;">
+            <img src="../images/02-lossodromia.jpg"/ style="width: 100%;">
+        </td>
+    </tr>
+</table>
 
 # Carte nautiche
 
@@ -26,7 +37,9 @@ Non Esistono carte che siano contemporaneamente isometriche, isogone e equivalen
 ## La carta di Mercatore
 
 Si immagini di avvolgere un cilindro attorno alla Terra, allineato sull'asse di rotazione e tangente l'equatore in 
-ogni suo punto: a partire dal centro della Terra si proiettano i punti della superficie della Terra sul cilindro.    
+ogni suo punto: a partire dal centro della Terra si proiettano i punti della superficie della Terra sul cilindro.
+    
+![Proiezione di Mercatore](../images/02-proiezione-mercatore.jpg)
 
 * I meridiani sono linee rette parallele ed equidistanti.
 * I paralleli sono linee rette parallele, a distanza crescente con la latitudine 
@@ -46,6 +59,8 @@ Una retta tracciata sulla carta di Mercatore è una rotta lossodromica.
 
 
 ## La carta gnomonica
+
+![Proiezione di Mercatore](../images/02-proiezione-gnomonica.png)
 
 Si immagini di porre un piano tangente ad un punto della superficie terrestre: a partire dal centro della Terra si 
 proiettano i punti della superficie della Terra sul piano.
@@ -78,3 +93,9 @@ Le carte si classificano in base alla scala (dalla scala più piccola alla scala
 
 > #### info::
 > Nota: più è piccolo il denominatore, più è grande la scala.
+
+---
+
+#### Fonti
+
+* <a href="//commons.wikimedia.org/wiki/File:Ortodroma.svg" title="File:Ortodroma.svg">Ortodroma.svg</a>: <a href="//commons.wikimedia.org/wiki/User:Orem" title="User:Orem">Orem</a> derivative work: <a href="//commons.wikimedia.org/wiki/User:Ciaurlec" title="User:Ciaurlec">Ciaurlec</a> (<a href="//commons.wikimedia.org/wiki/User_talk:Ciaurlec" title="User talk:Ciaurlec"><span class="signature-talk">talk</span></a>) - <a href="//commons.wikimedia.org/wiki/File:Ortodroma.svg" title="File:Ortodroma.svg">Ortodroma.svg</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12384180">Collegamento</a>
