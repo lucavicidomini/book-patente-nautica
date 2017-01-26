@@ -9,6 +9,8 @@
   * [Lettura delle carte nautiche](chapters/03-carte-nautiche.md)
   * [Aggiornamento delle carte nautiche](chapters/03-aggiornamento-carte.md)
 * [Altre pubblicazioni](chapters/03-pubblicazioni.md)
+* [Magnetismo](chapters/04-magnetismo.md)
+  * [Bussola magnetica](chapters/04-bussola.md)
 
 * Esercizi
   * [Autonomia](exercises/02-autonomia.md)
