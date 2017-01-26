@@ -31,4 +31,4 @@ Le pubblicazioni vanno **obbligatoriamente** aggiornate seguendo le indicazioni 
  - Ogni due settimane l'IIDMM pubblica con copertura del Mediterraneo.
   
 Le pubblicazioni vanno verificate tramite l'**Elenco di Controllo di documenti nautici** pubblicato semestralmente
-e disponibile gratuitamente sul sito http://www.marina.difesa.it
+e disponibile gratuitamente sul sito dell'[Istituto Idrografico della Marina Militare Italiana](http://www.marina.difesa.it/conosciamoci/organizzazione/comandienti/scientifici/idrografico/Pagine/home.aspx).
