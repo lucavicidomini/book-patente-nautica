@@ -20,6 +20,9 @@ Non è il percorso più breve, ma ha angolo costante e corrisponde ad una spiral
     </tr>
 </table>
 
+Per facilitare il percorso di una rotto ortodromico, è possibile suddividerla in più punti e tracciare rotte
+lossodromiche tra questi punti: l'insieme di rotte così formato si chiama **spezzata lossodromica**.
+
 # Carte nautiche
 
 Le carte nautiche introducono inevitabilmente delle deformazioni, che possono riguardare le distanze, gli angoli e le 
@@ -84,7 +87,7 @@ Le carte si classificano in base alla scala (dalla scala più piccola alla scala
 
 | Denominazione | Scala | Note |
 | -- | -- | -- |
-| Carte oceaniche | 1.600.000 | A piccolissima scala. |
+| Carte oceaniche | 1:6.000.000 | A piccolissima scala. |
 | Carte generali | 1:1.000.000&nbsp;-&nbsp;1:350.000 | Utilizzate per rotte su grandi distanze. |
 | Carte costiere | 1:250.000&nbsp;-&nbsp;1:100.000 | A piccola/media scala. Utilizzate per rotte su media/piccola distanza. |
 | Carte costiere | 1:60.000&nbsp;-&nbsp;1:30.000| A grande scala. Usate per l'atterraggio e nei porti |

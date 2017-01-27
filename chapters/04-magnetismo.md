@@ -48,7 +48,7 @@ In particolare sono indicati:
 ## Deviazione magnetica
 
 La bussola non punta al Nm, ma al cosiddetto **Nord bussola** (***Nb***). Nm e Nb non corrispondono a causa dei
-metalli presenti a bordo dell'imbarcazione, che generano un **campo magnetico perturbatore**.
+metalli presenti a bordo dell'imbarcazione che generano un **campo magnetico perturbatore**.
 
 > #### danger::
 >
@@ -77,10 +77,12 @@ Queste informazioni si usano per convertire prua vera e rotta vera in prua busso
 >
 > Pv e Rv coincidono in assenza di vento e corrente.
 
-La bussola e la tabella delle deviazioni residue sono obbligatorie sulle imbarcazioni da diporto (10-24m) che
-navigano a oltre 6 miglia dalla costa.
-
 ![Prora vera, magnetica e bussola](../images/04-pv-pm-pb.jpg)[^1]
+
+La bussola e la tabella delle deviazioni residue...
+* non sono obbligatorie sui natanti (&le; 10m);
+* sono obbligatori per imbarcazioni (10 &divide; 24m) se navigano a oltre 6 miglia dalla costa;
+* sono obbligatori per le navi (&gt; 24m).
 
 
 ---

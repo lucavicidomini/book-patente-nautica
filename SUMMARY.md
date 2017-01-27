@@ -5,6 +5,7 @@
 * [Indice delle lezioni](chapters/00-lessons.md)
 * [Unità di misura](chapters/01-unita-di-misura.md)
 * [Coordinate](chapters/01-coordinate.md)
+  * [Differenza di coordinate](chapters/01-coordinate-differenza.md)
 * [Carte nautiche](chapters/02-carte-nautiche.md)
   * [Lettura delle carte nautiche](chapters/03-carte-nautiche.md)
   * [Aggiornamento delle carte nautiche](chapters/03-aggiornamento-carte.md)

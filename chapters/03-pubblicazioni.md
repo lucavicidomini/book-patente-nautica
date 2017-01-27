@@ -32,3 +32,29 @@ Le pubblicazioni vanno **obbligatoriamente** aggiornate seguendo le indicazioni 
   
 Le pubblicazioni vanno verificate tramite l'**Elenco di Controllo di documenti nautici** pubblicato semestralmente
 e disponibile gratuitamente sul sito dell'[Istituto Idrografico della Marina Militare Italiana](http://www.marina.difesa.it/conosciamoci/organizzazione/comandienti/scientifici/idrografico/Pagine/home.aspx).
+
+## Notizie e simbolodia di una carta nautica
+
+Ogni carta riporta i seguenti dati esplicativi:
+
+* **numero distintivo della carta**, anno di stampa, indicazione "Carta Ufficiale di Stato", dati di aggionramento,
+    indicazione di Zo;
+* **titolo della carta**, **scala di riduzione**, **datum**, tipo di proiezione;
+* **reticolo** di meridiani e paralleli, **rose graduate**;
+* **elevazioni**, **fondali**, linea di costa riferita al livello medio del mare[^1], **punti cospicui**, **fari**,
+    **fanali**;
+* **scale di latitudine e longitudine**;
+* simboli indicanti la **natura del fondo** (in corsivo i simboli italiani, in grassetto quelli internazionali):
+
+| Simbolo      | Fondale          | Simbolo       | Fondale         | Simbolo           | Fondale        |
+| ------------ | ---------------- | ------------- | --------------- | ----------------- | -------------- | 
+| **s**        | Sabbia           | **M** (*f*)   | Fango           | **Cy**            | Argilla        |
+| **Si**       | Melma            | **St** (*p*)  | Pietrie         | **G**             | Ghiaia         |
+| **P**        | Ciottoli piccoli | **Cb**        | Ciottoli grandi | **R** (*r*)       | Roccia         |
+| **Cr**       | Corallo          | **Sh** (*Cn*) | Conchiglie      | **S.M.** (*s.f.*) | Sabbia e fango |
+| **Wd** (*a*) | Erbe marine      | **Oy**        | Ostriche        | **Ms**            | Cozze          |
+    
+---
+
+[^1] il **livello di riferimento** (valore medio, non minimo) è quello relativo alla **media delle basse maree
+sizigiali**, così che il navigante non venga mai a trovatsi in fondali inferiori a quelli indicati.
