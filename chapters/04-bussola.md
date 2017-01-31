@@ -14,6 +14,8 @@ Componenti della bussola:
 - **Linea di fede**: orientata parallelamente al piano diametrale (longitudinale) della barca alla quale è solidale
     e su cui si legge la direzione della prua;
 - **Sospensione cardanica**: mantengono la bussola in orizzontale durante rollio e beccheggio dello scafo;
+- **Chiesuola**: custodia e colonna di materiale amagnetico che protegge e sostiene la bussola
+    (ingloba anche la sospensione cardanica).
 
 > #### info::
 >

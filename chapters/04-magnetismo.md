@@ -22,6 +22,10 @@ Questo vuol dire che il nord indicato dalla bussola (**Nord magnetico**, ***Nm**
 La declinazione varia da zona in zona, e nella stessa zona varia di anno in anno.
 Può avere valore positivo (verso Est) oppure negativo (verso Ovest).
 
+> #### info::
+> * Se il Nm è spostato verso E (a dritta) rispetto al Nv, allora la declinazione è E (&gt; 0)
+> * Se il Nm è spostato verso W (a sinistra) rispetto al Nv, allora la declinazione è W (&lt; 0)
+
 A causa della declinazione, alle alte latitudini (oltre i 65-70°) la bussola diventa inutilizzabile.
  
 Sulle carte, la declinazione magnetica è riportata al centro della rosa graduata.
