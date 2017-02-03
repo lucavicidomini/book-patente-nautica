@@ -12,6 +12,9 @@
 * [Altre pubblicazioni](chapters/03-pubblicazioni.md)
 * [Magnetismo](chapters/04-magnetismo.md)
   * [Bussola magnetica](chapters/04-bussola.md)
+* [Rilevamenti](chapters/05-rilevamenti.md)
+* [Cenni di astronomia](chapters/05-astronomia.md)
+* [La Rosa dei venti](chapters/05-rosa.md)
 
 * Esercizi
   * [Autonomia](exercises/02-autonomia.md)

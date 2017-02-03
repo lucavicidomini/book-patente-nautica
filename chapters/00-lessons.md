@@ -12,3 +12,7 @@
 1. 24/01 _Martedì_
     - [Magnetismo](04-magnetismo.md)
     - [Bussola magnetica](04-bussola.md)
+1. 27/01 _Venerdì_
+    - [Rilevamenti](05-rilevamenti.md)
+    - [Cenni di astronomia](05-astronomia.md)
+    - [La Rosa dei venti](05-rosa.md)

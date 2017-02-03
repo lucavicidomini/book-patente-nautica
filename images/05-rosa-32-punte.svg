@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1393" height="951" viewBox="0 0 1393 951">
+<style type="text/css">
+	.st1{fill:#fff;}
+	.st2{fill:#D3E713;stroke:#000;stroke-width:2;}
+	.st3{fill:none;stroke:#006837;stroke-width:4;}
+	.st4{fill:none;stroke:#000;stroke-width:4;}
+	.st5{fill:none;stroke:#f00;stroke-width:4;}
+	.st6{font-family:Liberation Serif, Times New Roman;}
+	.st7{font-size:48px;}
+	.st8{fill:#f00;}
+	.st9{font-size:24px;}
+	.st10{fill:#006837;}
+	.st11{font-size:32px;}
+</style>
+<g id="wheel">
+	<path class="st1" d="M704.8,770.3c-79.9,0-155.1-31.1-211.6-87.7c-56.5-56.5-87.7-131.7-87.7-211.6c0-79.9,31.1-155.1,87.7-211.6
+		c56.5-56.5,131.7-87.7,211.6-87.7c79.9,0,155.1,31.1,211.6,87.7c56.5,56.5,87.7,131.7,87.7,211.6c0,79.9-31.1,155.1-87.7,211.6
+		C859.9,739.1,784.8,770.3,704.8,770.3z"/>
+	<path class="st2" d="M704.8,770.3c-79.9,0-155.1-31.1-211.6-87.7c-56.5-56.5-87.7-131.7-87.7-211.6c0-79.9,31.1-155.1,87.7-211.6
+		c56.5-56.5,131.7-87.7,211.6-87.7c79.9,0,155.1,31.1,211.6,87.7c56.5,56.5,87.7,131.7,87.7,211.6c0,79.9-31.1,155.1-87.7,211.6
+		C859.9,739.1,784.8,770.3,704.8,770.3z M704.8,757.3c158.1,0,286.3-128.2,286.3-286.3S862.9,184.7,704.8,184.7
+		S418.6,312.9,418.6,471S546.7,757.3,704.8,757.3z"/>
+	<line class="st3" x1="597.6" y1="205.6" x2="812.1" y2="736.4"/>
+	<line class="st3" x1="441.3" y1="359.1" x2="968.4" y2="582.9"/>
+	<line class="st3" x1="439.4" y1="578.2" x2="970.3" y2="363.8"/>
+	<line class="st3" x1="593" y1="734.5" x2="816.7" y2="207.5"/>
+	<line class="st4" x1="704.8" y1="184.7" x2="704.8" y2="757.3"/>
+	<line class="st5" x1="650.2" y1="190" x2="759.5" y2="752"/>
+	<line class="st5" x1="546.8" y1="232.3" x2="862.8" y2="709.7"/>
+	<line class="st5" x1="467.5" y1="310.9" x2="942.2" y2="631.1"/>
+	<line class="st5" x1="424.3" y1="413.9" x2="985.4" y2="528.1"/>
+	<line class="st5" x1="423.8" y1="525.6" x2="985.9" y2="416.4"/>
+	<line class="st5" x1="466.1" y1="629" x2="943.6" y2="313"/>
+	<line class="st5" x1="544.8" y1="708.3" x2="864.9" y2="233.7"/>
+	<line class="st5" x1="647.8" y1="751.5" x2="761.9" y2="190.5"/>
+	<line class="st4" x1="502.4" y1="268.6" x2="907.3" y2="673.4"/>
+	<line class="st4" x1="418.6" y1="471" x2="991.1" y2="471"/>
+	<line class="st4" x1="502.4" y1="673.4" x2="907.3" y2="268.6"/>
+</g>
+<g id="text">
+	<text transform="matrix(1 0 0 1 588 117)"><tspan x="0" y="0" class="st6 st7">Tramontana</tspan><tspan x="82.6" y="39" class="st6 st7">(N)</tspan></text>
+	<text transform="matrix(1 0 0 1 200.2918 267.6611)" class="st6 st7">Maestro (NW)</text>
+	<text transform="matrix(1 0 0 1 151.5174 486.2622)" class="st6 st7">Ponente (W)</text>
+	<text transform="matrix(1 0 0 1 198.9676 708.0308)" class="st6 st7">Libeccio (SW)</text>
+	<text transform="matrix(1 0 0 1 675.5117 834.7836)"><tspan x="0" y="0" class="st6 st7">(S)</tspan><tspan x="-24" y="39" class="st6 st7">Ostro</tspan></text>
+	<text transform="matrix(1 0 0 1 923.0398 713.1218)" class="st6 st7">(SE) Scirocco</text>
+	<text transform="matrix(1 0 0 1 1010.2014 488.8551)" class="st6 st7"> (E) Levante</text>
+	<text transform="matrix(1 0 0 1 936.2698 271.246)" class="st6 st7">(NE) Greco</text>
+	<text transform="matrix(1 0 0 1 758.9509 150.139)" class="st8 st6 st9">(N by E) Qto Tramontana verso Greco</text>
+	<text transform="matrix(1 0 0 1 819.0217 187.4171)" class="st10 st6 st11">(NNE) Greco-Tramontana</text>
+	<text transform="matrix(1 0 0 1 996.106 368.99)" class="st10 st6 st11">(ENE) Greco-Levante</text>
+	<text transform="matrix(1 0 0 1 994.254 603.298)" class="st10 st6 st11">(ESE) Levante-Scirocco</text>
+	<text transform="matrix(1 0 0 1 812.4653 784.1677)" class="st10 st6 st11">(SSE) Ostro-Scirocco</text>
+	<text transform="matrix(1 0 0 1 305.3781 782.2424)" class="st10 st6 st11">Ostro-Libeccio (SSW)</text>
+	<text transform="matrix(1 0 0 1 83.777 600.206)" class="st10 st6 st11">Ponente-Libeccio (WSW)</text>
+	<text transform="matrix(1 0 0 1 81.7859 362.9125)" class="st10 st6 st11">Maestro-Ponente (WNW)</text>
+	<text transform="matrix(1 0 0 1 214.8265 187.3242)" class="st10 st6 st11">Maestro-Tramontana (NNW)</text>
+	<text transform="matrix(1 0 0 1 887.27 220.5013)" class="st8 st6 st9">(NE by N) Qto Greco verso Tramontana</text>
+	<text transform="matrix(1 0 0 1 970.9339 309.4105)" class="st8 st6 st9">(NE by E) Qto Greco verso Levante </text>
+	<text transform="matrix(1 0 0 1 1010.4623 424.3764)" class="st8 st6 st9">(E by N) Qto Levante verso Greco</text>
+	<text transform="matrix(1 0 0 1 1013.8718 540.7537)" class="st8 st6 st9">(E by S) Qto Levante verso Scirocco</text>
+	<text transform="matrix(1 0 0 1 321.0649 810.6352)" class="st8 st6 st9">Qto Ostro verso Libeccio (S by W)</text>
+	<text transform="matrix(1 0 0 1 186.5553 749.6572)" class="st8 st6 st9">Qto Libeccio verso Ostro (SW by S)</text>
+	<text transform="matrix(1 0 0 1 60.0208 653.8253)" class="st8 st6 st9">Qto Libeccio verso Ponente (SW by W)</text>
+	<text transform="matrix(1 0 0 1 37.299 542.3924)" class="st8 st6 st9">Qto Ponente verso Libeccio (W by S)</text>
+	<text transform="matrix(1 0 0 1 38.1359 417.5524)" class="st8 st6 st9">Qto Ponente verso Maestro (W by N)</text>
+	<text transform="matrix(1 0 0 1 59.9196 304.079)" class="st8 st6 st9">Qto Maestro verso Ponente (NW by W)</text>
+	<text transform="matrix(1 0 0 1 119.4826 218.6624)" class="st8 st6 st9">Qto Maestro verso Tramontana (NW by N)</text>
+	<text transform="matrix(1 0 0 1 261.3053 151.7926)" class="st8 st6 st9">Qto Tramontana verso Maestro(N by W)</text>
+	<text transform="matrix(1 0 0 1 955.7954 661.6492)" class="st8 st6 st9">(SE by E) Qto Scirocco verso Levante</text>
+	<text transform="matrix(1 0 0 1 875.5647 752.0134)" class="st8 st6 st9">(SE by S) Qto Scirocco verso Ostro</text>
+	<text transform="matrix(1 0 0 1 758.5948 812.1277)" class="st8 st6 st9">(S by E) Qto Ostro verso Scirroco</text>
+</g>
+</svg>
