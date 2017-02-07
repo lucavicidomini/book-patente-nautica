@@ -15,6 +15,7 @@
 * [Rilevamenti](chapters/05-rilevamenti.md)
 * [Cenni di astronomia](chapters/05-astronomia.md)
 * [La Rosa dei venti](chapters/05-rosa.md)
+* [Regolamento per prevenire gli abbordi in mare](chapters/06-colreg.md)
 
 * Esercizi
   * [Autonomia](exercises/02-autonomia.md)

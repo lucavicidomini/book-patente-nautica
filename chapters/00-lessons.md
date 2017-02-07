@@ -16,3 +16,5 @@
     - [Rilevamenti](05-rilevamenti.md)
     - [Cenni di astronomia](05-astronomia.md)
     - [La Rosa dei venti](05-rosa.md)
+1. 31/01 _ Martedì_
+    - [Regolamento per prevenire gli abbordi in mare](06-colreg.md)
