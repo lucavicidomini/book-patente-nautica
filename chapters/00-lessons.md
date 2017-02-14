@@ -18,3 +18,6 @@
     - [La Rosa dei venti](05-rosa.md)
 1. 31/01 _ Martedì_
     - [Regolamento per prevenire gli abbordi in mare](06-colreg.md)
+1. 03/02 _Venerdì_
+    - [Teoria della nave e nomenclatura](07-teoria-nave.md)
+    - [Le vele](07-vela.md)
