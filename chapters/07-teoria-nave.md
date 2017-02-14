@@ -105,7 +105,7 @@ di prua/poppa rispetto ad un altro oggetto (es: la randa è a poppavia dell'albe
 * **Occhio di Cubìa**: il foro sullo scafo, verso prua, da cui passa la catena dell'ancora.
 * **Battagliola**: il complesso che forma la ringhiera sulla coperta. È formata da:
     * **Candelieri**: le aste verticali;
-    * **Draglie**: le cime o ringhiere di metallo che attraversano i candelieri;
+    * **Draglie**: le cime (non le ringhiere in metallo) che attraversano i candelieri;
     * **Pulpito di prua/poppa**: le parti terminali della battagliola (è comune vere due pulpiti di poppa).
 * **Gavone**: lo spazio a prua o poppa della barca, delimitati da paratie.
 * **Osteriggio** o **Boccaporto**: aperture sui ponti delle navi. A differenza degli oblò sono pensati per
@@ -121,22 +121,24 @@ di prua/poppa rispetto ad un altro oggetto (es: la randa è a poppavia dell'albe
     * L'appendice a poppa è detta **calcagnolo** (vi si può poggiare il timone).
     * La parte dritta a poppa è detta **dritto di poppa**. Può essere rinforzata da una **controdritto**.
 * Dalla chiglia dipartono diverse **ordinate** o **costole**. Ognuna è composta da:
-    * Madiere, fissato alla chiglia;
-    * Staminale o ginocchio, dà la curvatura allo scafo;
-    * Scalmo, si prolunga verso l'alto.
+    * **Madiere**, fissato alla chiglia;
+    * **Staminale** o **ginocchio**, dà la curvatura allo scafo;
+    * **Scalmo**, si prolunga verso l'alto.
 * Sopra le ordinate è posto il **paramezzale**.
 * **Controchiglia** (sulla parte bassa della chiglia) e il **Controparamezzale** (sulla parte alta del paramezzale)
     fanno da rinforzo.
 * Il **pagliolo** è la parte calpestabile sotto coperta.
-* Lo spazio tra il pagliolo e il fondo della barca è detto **sentina**. 
+* Lo spazio tra il pagliolo e il fondo della barca è detto **sentina**.
+* Tra i madieri sono praticati dei fori detti **bisce** che evitano che l'acqua si stagni in sentina.
 * Gli scalmi delle costole sono mantenuti in posizione dalle **serrette**, che attraversano i fianchi della nave
     internamente in senso longitudinale. 
 * Le **murate** (o **fiancate**) opposte dello scafo sono unite dai **bagli**.
-    * I bagli non sono dritti, ma sono rialzati al centro dello scafo. La curvatura formata è detta **bolzone**.
+    * I bagli non sono dritti, ma sono rialzati al centro dello scafo. L'insellamento formato è detto **bolzone**.
+* I bagli possono essere sostenuti dai **braccioli**, che fanno angolo con le costole.
 * Ogni baglio è sostenuto al centro dal **puntale**, che poggia sul (contro)paramezzale.
 * Sui bagli sono fissate le assi che formano la **coperta**.
-* La giunzione tra coperta è murata della chiglia è costituita dal *trincarino**.
-* Lo strato esterno dello scafo è fromato dal **fasciame**.
+* Lo strato esterno dello scafo è formato dal **fasciame**.
+* Il primo corso esterno del fasciamo di coperta è detto *trincarino**.
 * Il fasciame è collegato alla chiglia da un componente rastremata detta **torello**.
 * Nella parte alta dello scafo il fasciame è rinforzato a formare la **falchetta**. Su altre navi la falchetta
     è il bordo (solitamente in legno) su cui è possibile puntellare i piedi.
@@ -144,7 +146,7 @@ di prua/poppa rispetto ad un altro oggetto (es: la randa è a poppavia dell'albe
 * A livello della coperta, sul fasciame ci sono delle aperture dette **ombrinali**
 * Delle **paratie** possono creare dei compartimenti stagni. Tipicamente vengono isolate prua e poppa
     della nave, che sono più soggette a collisioni.
-* Il **cavallino** è la curva che lo scafo presenta longitudinalmente nella sua parte più alta. Può essere:
+* Il **cavallino** è l'insellamento della coperta longitudinalmente. Può essere:
     * **cavallino neutro**: lo scafo è dritto;
     * **cavallino negativo**: lo scafo è più basso verso il centro della barca;
     * **cavallino rovescio**: lo scafo è più alto verso il centro della barca.
@@ -154,7 +156,7 @@ di prua/poppa rispetto ad un altro oggetto (es: la randa è a poppavia dell'albe
 * La **pala** produce il movimento della barca nel fluido in movimento.
 * Verso l'altro si rastrema formando la **spalla**.
 * La spalla si congiunge in alto alla **barra** usata per comandare il timone.
-* La giunzione tra spalle e batta è detta **testa**.
+* La giunzione tra spalle e barra è detta **testa**.
 * Dalla testa passa l'**asse** di rotazione del timone. È sottoposto a notevole sforzo
     e quindi solitamente è rinforzato all'interno:
     * Se la pala si sviluppa a poppavia dell'asse, si parla di **timone semplice**;

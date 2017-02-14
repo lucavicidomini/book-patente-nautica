@@ -21,8 +21,10 @@ La vela è un triangolo...
 La vela non è strettamente un triangolo ma ha una pancia, detta **grasso** che le dà forma.
 Il grasso viene creato con del tessuto aggiuntivo (**allunamento**) ai lati del triangolo.
 Per evitare che l'allunamento si afflosci e segua il vento, viene sostenuto da **stecche** di sostegno semirigide.
-Per dare forma alla vela, inoltre, questa non viene ricavata da un unico tessuto piano, ma viene ottenuta
-unendo più teli (**ferzi**) opportunamente sagomati. Altra tecnica costruttiva è quella *triradiale*.
+
+Due tecniche di costruzione delle vele diffuse sono:
+* **cross-cut**: la forma è data unendo più teli (**ferzi**) opportunamente sagomati;
+* **triradiale**.
 
 ## Le manovre
 
@@ -46,3 +48,5 @@ Le manovre in cordame possono essere
 * **Trecciate**: composte da un'anima e una calza.
     
 Le cime ritorte sono composte da **fibre** raggruppate in **trefoli**, a loro volta uniti in **legnòli**.
+
+Il verbo **cazzare** vuol dire tesare (stringere) una vela o una cima. Il contrario è **filare** o *allascare*. 
