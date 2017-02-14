@@ -18,6 +18,7 @@
 * [Regolamento per prevenire gli abbordi in mare](chapters/06-colreg.md)
 * [Teoria della nave e Nomenclatura](chapters/07-teoria-nave.md)
 * [Le vele](chapters/07-vela.md)
+* [Le ancore](chapters/08-ancore.md)
 
 * Esercizi
   * [Autonomia](exercises/02-autonomia.md)

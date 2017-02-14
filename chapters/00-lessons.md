@@ -16,8 +16,10 @@
     - [Rilevamenti](05-rilevamenti.md)
     - [Cenni di astronomia](05-astronomia.md)
     - [La Rosa dei venti](05-rosa.md)
-1. 31/01 _ Martedì_
+1. 31/01 _Martedì_
     - [Regolamento per prevenire gli abbordi in mare](06-colreg.md)
 1. 03/02 _Venerdì_
     - [Teoria della nave e nomenclatura](07-teoria-nave.md)
     - [Le vele](07-vela.md)
+1. 07/02 _Martedì_
+    - [Le ancore](08-ancore.md)
