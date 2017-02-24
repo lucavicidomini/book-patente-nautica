@@ -23,3 +23,7 @@
     - [Le vele](07-vela.md)
 1. 07/02 _Martedì_
     - [Le ancore](08-ancore.md)
+1. 10/02 _Venerdì_
+    * [Fanali aggiuntivi](09-colreg-b.md)
+    * [Precedenze di rotta](09-precedenze.md)
+    * [Segnali da nebbia o con visibilità ridotta](09-segnali-sonori.md)
